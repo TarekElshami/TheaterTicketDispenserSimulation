@@ -1,0 +1,31 @@
+El Rey Leon:The Lion King
+Selecciona dia de representacion:Select performance day
+Seleccion de idioma:Language Selection
+Producido por Stage Entertainment, El Rey León es la mayor producción musical jamás representada en España. Apto para toda la familia, es una experiencia única que atrapa de principio a fin y que, tal y como ya han hecho más de 100 millones de personas en todo el mundo, hay que vivir, al menos, una vez en la vida. Por su espectacularidad, por su belleza, por la emoción que es capaz de transmitir...:Produced by Stage Entertainment, El Rey León is the largest musical production ever performed in Spain. Suitable for the whole family, it is a unique experience that captivates from beginning to end and that, as more than 100 million people around the world have already done, must be lived at least once in a lifetime. For its spectacularity, for its beauty, for the emotion it is capable of transmitting...
+castellano:castellano
+english:english
+euskara:euskara
+català:català
+Cancelar:Cancel
+Sin Descripcion: 
+Los lunes no hay representaciones:There are no performances on Mondays
+martes:Tuesday
+miércoles:Wednesday
+jueves:Thursday
+viernes:Friday
+sábado:Saturday
+domingo:Sunday
+Palco1:Box1
+Palco2:Box2
+Anfiteatro1:Amphitheatre1
+Anfiteatro2:Amphitheatre2
+Platea:Orchestra
+Seleccion de area:Area selection
+Elección de asientos:Choice of seats
+Confirmar:Confirm
+Inserte tarjeta:Insert card
+Error:Error
+En estos momentos no podemos adenterle:At this time we cannot inform you
+en:In
+el dia:The day
+Entrada:Ticket

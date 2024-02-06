@@ -1,0 +1,31 @@
+El Rey Leon:Lehoi Erregea
+Selecciona dia de representacion:Hautatu emanaldiaren eguna
+Seleccion de idioma:Hizkuntza Hautaketa
+Producido por Stage Entertainment, El Rey León es la mayor producción musical jamás representada en España. Apto para toda la familia, es una experiencia única que atrapa de principio a fin y que, tal y como ya han hecho más de 100 millones de personas en todo el mundo, hay que vivir, al menos, una vez en la vida. Por su espectacularidad, por su belleza, por la emoción que es capaz de transmitir...:Stage Entertainment-ek ekoiztua, El Rey León Espainian inoiz egin den musika ekoizpen handiena da. Familia osoarentzako aproposa, hasieratik amaierara liluratzen duen esperientzia paregabea da eta munduan zehar 100 milioi pertsonak baino gehiagok egin duten bezala, bizitzan gutxienez behin bizi behar dena. Bere ikusgarritasunagatik, bere edertasunagatik, transmititzeko gai den emozioagatik...
+castellano:castellano
+english:english
+euskara:euskara
+català:català
+Cancelar:Utzi
+Sin Descripcion: 
+Los lunes no hay representaciones:Astelehenetan ez dago emanaldirik
+martes:asteartea
+miércoles:asteazkena
+jueves:osteguna
+viernes:ostirala
+sábado:Larunbata
+domingo:Igandea
+Palco1:koadroa 1
+Palco2:koadroa 2
+Anfiteatro1:anfiteatroa1
+Anfiteatro2:anfiteatroa2
+Platea:Orkestra
+Seleccion de area:eremuaren hautaketa
+Elección de asientos:eserlekuak aukeratzea
+Confirmar:Berretsi
+Inserte tarjeta:Sartu txartela
+Error:Errorea
+En estos momentos no podemos adenterle:Une honetan ezin dizugu jakinarazi
+en:Urtean
+Entrada:Sarrera
+el dia:Eguna
